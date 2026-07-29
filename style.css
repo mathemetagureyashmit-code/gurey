@@ -373,5 +373,8 @@ li {
     height: 0;
     clear: both;
 }
-
+#wrapper,
+#body {
+    overflow: hidden;
+}
 
