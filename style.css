@@ -116,7 +116,9 @@ a:hover {
 /* col */
 
 #col {
-    float: left;
+    position: absolute;
+    top: 0;
+    left: 0;
     width: 329px;
     background: #F0F8FE;
     padding: 7px;
