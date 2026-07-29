@@ -373,47 +373,5 @@ li {
     height: 0;
     clear: both;
 }
-.sideblock {
-    margin-top: 8px;
-    padding: 12px;
-    background: #cde3f3;
-    border: 1px solid #7aa7c8;
-}
-
-.sideblock h2 {
-    margin: 0 0 10px;
-    padding-bottom: 5px;
-    font-size: 14px;
-    color: #164871;
-    border-bottom: 1px solid #7aa7c8;
-    text-transform: uppercase;
-}
-
-.sideblock p {
-    margin: 0 0 10px;
-    line-height: 1.5;
-}
-
-.sideblock ul {
-    margin: 0;
-    padding: 0;
-}
-
-.sideblock li {
-    list-style: none;
-    margin: 6px 0;
-    padding-left: 12px;
-    background: url(images/bullet.gif) left center no-repeat;
-}
-
-.sideblock a {
-    color: #164871;
-    text-decoration: none;
-}
-
-.sideblock a:hover {
-    text-decoration: underline;
-}
-
 
 
