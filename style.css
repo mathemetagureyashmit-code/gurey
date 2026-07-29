@@ -367,10 +367,8 @@ li {
     color: #fff;
 }
 .section-divider {
-    margin: 12px 20px;
-    border-top: 1px solid #4f87b3;
-    border-bottom: 1px solid #d7e9f6;
-    height: 0;
+    border-top: 1px solid #164871;
+    margin: 10px 0;
     clear: both;
 }
 #wrapper,
